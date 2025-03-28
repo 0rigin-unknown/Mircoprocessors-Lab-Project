@@ -1,4 +1,4 @@
-# Lab-Project
+# Microprocessors Lab Project
 Microprocessors Lab Project made by Group 13
 
 # Members
