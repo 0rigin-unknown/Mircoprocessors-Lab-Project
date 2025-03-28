@@ -1,8 +1,11 @@
 # Microprocessors Lab Project
 Microprocessors Lab Project made by Group 13
 
-# Members
+# Descriptions
+Speed monitoring system made using an IR sensor made to check Vehicles that overspeed made by Computer Engineering Group 13.
 
+
+# Members
 - Joshua-Martin Sackeyfio
 - Bregaitha Agyekum
 - Benjamin Appiah-Boadu
